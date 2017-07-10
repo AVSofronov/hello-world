@@ -1,4 +1,4 @@
 # hello-world
 First repository
 
-Headed straight for developer career
+Headed straight for a developer career
